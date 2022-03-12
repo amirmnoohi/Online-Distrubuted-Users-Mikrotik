@@ -1,0 +1,31 @@
+{
+  "PPP": [
+    {
+      "NAME": "SERVER1",
+      "IP": "x.x.x.x",
+      "PASSWORD": "S1Password"
+    },
+    {
+      "NAME": "SERVER2",
+      "IP": "x.x.x.x",
+      "PASSWORD": "S2Password"
+    }
+  ],
+  "SOCKS": [
+    {
+      "NAME": "SERVER3",
+      "IP": "45.14.224.11",
+      "PASSWORD": "S1Password"
+    },
+    {
+      "NAME": "SERVER4",
+      "IP": "x.x.x.x",
+      "PASSWORD": "S4Password"
+    },
+    {
+      "NAME": "SERVER5",
+      "IP": "x.x.x.x",
+      "PASSWORD": "S5Password"
+    }
+  ]
+}
